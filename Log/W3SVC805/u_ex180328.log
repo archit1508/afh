@@ -1,0 +1,63 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-27 20:42:34
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-27 20:42:34 W3SVC805 GET /robots.txt - - 178.62.204.29 HTTP/1.0 SafeDNSBot+(https://www.safedns.com/searchbot) - - ashokafurniturehouse.com 404 0 2 5432 280 542
+2018-03-27 20:42:34 W3SVC805 GET / - - 178.62.204.29 HTTP/1.0 SafeDNSBot+(https://www.safedns.com/searchbot) - - ashokafurniturehouse.com 200 0 0 6300 270 601
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-27 23:34:03
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-27 23:34:03 W3SVC805 GET /products.html - - 180.76.15.28 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ashokafurniturehouse.com 304 0 0 229 328 340
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 01:57:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 01:57:54 W3SVC805 GET /testimonial.html - - 180.76.15.25 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ashokafurniturehouse.com 304 0 0 230 332 267
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 04:17:31
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 04:17:30 W3SVC805 GET /robots.txt - - 66.249.79.157 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ashokafurniturehouse.com 404 0 2 5417 242 625
+2018-03-28 04:17:31 W3SVC805 GET / - - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ashokafurniturehouse.com 200 0 0 6281 305 834
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 07:07:11
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 07:07:11 W3SVC805 GET / - - 66.102.6.188 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - https://www.google.com/ www.ashokafurniturehouse.com 200 0 0 6281 476 1110
+2018-03-28 07:07:11 W3SVC805 GET /css/style.css - - 66.102.6.188 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 1676 430 231
+2018-03-28 07:07:13 W3SVC805 GET /logo2.png - - 66.102.6.161 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 95368 428 1397
+2018-03-28 07:07:17 W3SVC805 GET /bg10.jpg - - 66.102.6.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/css/style.css www.ashokafurniturehouse.com 200 0 0 1458428 440 4868
+2018-03-28 07:07:19 W3SVC805 GET /wood.jpg - - 66.102.6.188 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/css/style.css www.ashokafurniturehouse.com 200 0 0 858821 440 7804
+2018-03-28 07:16:11 W3SVC805 GET /img/accesories/1.jpeg - - 66.249.79.29 HTTP/1.1 Googlebot-Image/1.0 - - www.ashokafurniturehouse.com 200 0 0 104563 213 1217
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 08:50:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 08:50:10 W3SVC805 GET / - - 173.244.48.51 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/537.36 - - ashokafurniturehouse.com 200 0 0 6305 310 1098
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 11:11:39
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 11:11:38 W3SVC805 GET / - - 54.67.59.131 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - - www.ashokafurniturehouse.com 200 0 0 6281 212 1027
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 16:31:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 16:31:14 W3SVC805 GET /robots.txt - - 141.8.142.28 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - www.ashokafurniturehouse.com 404 0 2 5417 211 561
+2018-03-28 16:31:16 W3SVC805 GET /robots.txt - - 95.108.213.19 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ashokafurniturehouse.com 404 0 2 5413 207 415
+2018-03-28 16:31:18 W3SVC805 GET / - - 87.250.224.124 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - www.ashokafurniturehouse.com 200 0 0 6281 293 720
+2018-03-28 16:31:19 W3SVC805 GET / - - 95.108.181.56 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ashokafurniturehouse.com 200 0 0 2308 289 213
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 16:53:24
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 16:53:24 W3SVC805 GET /robots.txt - - 144.217.86.210 HTTP/1.1 Mozilla/5.0+(compatible;+ExtLinksBot/1.5;++https://extlinks.com/Bot.html) - - www.ashokafurniturehouse.com 404 0 2 5417 198 696
+2018-03-28 16:53:34 W3SVC805 GET /index.html - - 144.217.86.210 HTTP/1.1 Mozilla/5.0+(compatible;+ExtLinksBot/1.5;++https://extlinks.com/Bot.html) - - www.ashokafurniturehouse.com 200 0 0 6281 198 506
+2018-03-28 16:53:44 W3SVC805 GET /products.html - - 144.217.86.210 HTTP/1.1 Mozilla/5.0+(compatible;+ExtLinksBot/1.5;++https://extlinks.com/Bot.html) - - www.ashokafurniturehouse.com 200 0 0 8756 201 266
+2018-03-28 16:53:54 W3SVC805 GET /testimonial.html - - 144.217.86.210 HTTP/1.1 Mozilla/5.0+(compatible;+ExtLinksBot/1.5;++https://extlinks.com/Bot.html) - - www.ashokafurniturehouse.com 200 0 0 8801 204 552
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-03-28 18:20:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-03-28 18:20:08 W3SVC805 HEAD / - - 5.188.9.80 HTTP/1.1 NYU+Internet+Census+(https://scan.lol;+research@scan.lol) - - ashokafurniturehouse.com 200 0 0 248 122 629

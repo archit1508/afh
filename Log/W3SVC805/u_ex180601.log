@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-06-01 03:24:05
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-01 03:24:04 W3SVC805 GET / - - 180.76.15.8 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ashokafurniturehouse.com 200 0 0 6300 230 559
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-06-01 08:09:19
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-01 08:09:19 W3SVC805 GET / - - 66.102.6.132 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - https://www.google.com/ www.ashokafurniturehouse.com 200 0 0 6281 491 1472
+2018-06-01 08:09:20 W3SVC805 GET /css/style.css - - 66.249.80.28 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 1676 445 242
+2018-06-01 08:09:21 W3SVC805 GET /wood.jpg - - 66.102.6.134 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/css/style.css www.ashokafurniturehouse.com 200 0 0 858821 455 2080
+2018-06-01 08:09:21 W3SVC805 GET /logo2.png - - 66.249.80.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 95368 443 1442
+2018-06-01 08:09:22 W3SVC805 GET /bg10.jpg - - 66.249.80.28 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - http://www.ashokafurniturehouse.com/css/style.css www.ashokafurniturehouse.com 200 0 0 1458428 455 2486
+2018-06-01 08:17:51 W3SVC805 GET /css/style.css - - 59.176.82.221 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 304 0 0 210 444 247
+2018-06-01 08:17:51 W3SVC805 GET /bg10.jpg - - 59.176.82.221 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/css/style.css www.ashokafurniturehouse.com 304 0 0 211 474 243
+2018-06-01 08:22:52 W3SVC805 GET /favicon.ico - - 59.176.82.221 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 404 0 2 5419 378 107
+2018-06-01 08:23:02 W3SVC805 GET /testimonial.html - - 59.176.82.221 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 8801 459 317
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-06-01 09:04:51
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-01 09:04:51 W3SVC805 GET / - - 122.177.197.207 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - https://www.google.co.in/ www.ashokafurniturehouse.com 200 0 0 6281 433 868
+2018-06-01 09:05:02 W3SVC805 GET /css/style.css - - 122.177.197.207 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 1676 360 84
+2018-06-01 09:05:02 W3SVC805 GET /logo2.png - - 122.177.197.207 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - http://www.ashokafurniturehouse.com/ www.ashokafurniturehouse.com 200 0 0 95368 377 637
+2018-06-01 09:05:03 W3SVC805 GET / - - 107.170.96.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:33.0)+Gecko/20100101+Firefox/33.0 - http://www.ashokafurniturehouse.com www.ashokafurniturehouse.com 200 0 0 6300 327 422
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-06-01 10:28:58
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-01 10:28:57 W3SVC805 GET / - - 159.65.24.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.116+Safari/537.36 - - ashokafurniturehouse.com 200 0 0 6300 333 903
